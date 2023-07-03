@@ -6,47 +6,28 @@
       "isios": 0,
       "iosU": "1",
       "Area": [
-        "TR",
         "BR",
-        "HK",
-        "PH",
         "KR"
       ],
       "Event": [
-        "adj_complete_registration",
-        "adj_purchase1",
-        "adj_purchase1_value",
-        "deposit",
-        "depositSubmit",
-        "deposit-success",
-        "firstDeposit",
-        "firstDepositArrival",
-        "first-deposit-success",
-        "firstOpen",
-        "first-recharge-success",
-        "recharge-success",
+        "firstrecharge",
+        "login",
+        "logout",
+        "recharge",
+        "rechargeClick",
         "register",
-        "registerSubmit",
-        "signup-success",
-        "withdraw"
+        "registerClick",
+        "withdrawClick"
       ],
       "ID": [
-        "u5ajjy",
-        "rt0yzw",
-        "dcxk3n",
-        "2mc2q6",
-        "lba3k7",
-        "g31ig3",
-        "lkneqp",
-        "o87anb",
-        "h7wgl6",
-        "tmxy4s",
-        "dhpuso",
-        "hpk9wx",
-        "u2whbf",
-        "lf2v8x",
-        "qfwwip",
-        "d7b1he"
+        "rf8lz6",
+        "u7twe4",
+        "mmbpu1",
+        "1k7z36",
+        "hc4qm5",
+        "qnvw5b",
+        "8lhhzb",
+        "5reti2"
       ]
     }
   }
