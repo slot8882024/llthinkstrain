@@ -1,34 +1,8 @@
 {
-  "AB": {
-    "A": {
-      "U": "1",
-      "onoff": 0,
-      "isios": 0,
-      "iosU": "1",
-      "Area": [
-        "BR",
-        "KR"
-      ],
-      "Event": [
-        "firstrecharge",
-        "login",
-        "logout",
-        "recharge",
-        "rechargeClick",
-        "register",
-        "registerClick",
-        "withdrawClick"
-      ],
-      "ID": [
-        "rf8lz6",
-        "u7twe4",
-        "mmbpu1",
-        "1k7z36",
-        "hc4qm5",
-        "qnvw5b",
-        "8lhhzb",
-        "5reti2"
-      ]
+  "Userinfo": {
+    "walle": {
+      "uid": "1",
+      "name": 0
     }
   }
 }
